@@ -108,7 +108,7 @@ export const Hero = () => {
               {/* Main image container with glowing red border */}
               <div className="relative w-full h-full rounded-2xl overflow-hidden shadow ">
                 <img 
-                  src="public\unnamed.png"
+                  src="/unnamed.png"
                   alt="Vignesh S - Professional software engineer"
                   className="w-full object-cover object-center  filter brightness-75 "
                 />
